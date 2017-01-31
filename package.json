@@ -1,0 +1,27 @@
+{
+  "name": "request-numerizer",
+  "version": "1.0.0",
+  "description": "General purpose middleware to clean numeric request strings",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacmba/nodejs-request-numerizer.git"
+  },
+  "keywords": [
+    "express",
+    "restify",
+    "middleware",
+    "request",
+    "number",
+    "string"
+  ],
+  "author": "Jacinto Mba Cantero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacmba/nodejs-request-numerizer/issues"
+  },
+  "homepage": "https://github.com/jacmba/nodejs-request-numerizer#readme"
+}
