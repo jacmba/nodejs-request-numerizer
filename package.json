@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jacmba/nodejs-request-numerizer/issues"
   },
-  "homepage": "https://github.com/jacmba/nodejs-request-numerizer#readme"
+  "homepage": "https://github.com/jacmba/nodejs-request-numerizer#readme",
+  "dependencies": {
+    "assert": "1.4.1"
+  }
 }
