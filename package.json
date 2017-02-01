@@ -19,7 +19,7 @@
         "string"
     ],
     "author": "Jacinto Mba Cantero",
-    "license": "MIT",
+    "license": "WTFPL",
     "bugs": {
         "url": "https://github.com/jacmba/nodejs-request-numerizer/issues"
     },
