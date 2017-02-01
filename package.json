@@ -1,6 +1,6 @@
 {
     "name": "request-numerizer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "General purpose middleware to clean numeric request strings",
     "main": "lib/index.js",
     "scripts": {
