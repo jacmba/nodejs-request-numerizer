@@ -18,4 +18,4 @@ app.use(numerizer);
 ```npm test```
 
 ## License
-[MIT](LICENSE)
+[WTFPL](LICENSE)
