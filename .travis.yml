@@ -1,0 +1,8 @@
+branches:
+  only:
+  - master
+
+deploy:
+  provider: npm
+  email: "$NPM_MAIL"
+  api_key: "$NPM_TOKEN"
