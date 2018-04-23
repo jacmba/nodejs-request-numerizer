@@ -17,5 +17,8 @@ app.use(numerizer);
 ## Run the module tests
 ```npm test```
 
+## Show verbose logging
+Just initalize the environment variable _LOG_NUMERIZER_ to any value
+
 ## License
 [WTFPL](LICENSE)
